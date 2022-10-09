@@ -6,3 +6,6 @@
 2. tz2_speed.py --- visualization for _max function. Has been done using matplotlib. Samples are generated with random lib.
 3. tz2f_test.py --- has success test for each function and one more test that compares reuslts for _sum and _mult functions. 
 4. test.txt --- sample data that is used for running tests in testing.py file.
+
+# Status: 
+[![Test](https://github.com/Nexiee11/tz2_repo/actions/workflows/tz2ci.yml/badge.svg?branch=main)](https://github.com/Nexiee11/tz2_repo/actions/workflows/tz2ci.yml)
