@@ -9,3 +9,7 @@
 
 # Status: 
 [![Test](https://github.com/Nexiee11/tz2_repo/actions/workflows/tz2ci.yml/badge.svg?branch=main)](https://github.com/Nexiee11/tz2_repo/actions/workflows/tz2ci.yml)
+
+
+#Run button 
+[![Run Action](https://github-action-button.web.app/buttons/simple.svg?name=Tz2CI&eventType=&type=simple&action=deployment)](https://github-action-button.web.app/repos/Nexiee11/tz2_repo/button?name=Tz2CI&eventType=&type=simple&action=deployment)
