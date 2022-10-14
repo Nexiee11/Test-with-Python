@@ -3,7 +3,7 @@ import random
 import matplotlib.pyplot as plt
 import f12
 import numpy 
-test_arr = [1,10,20,30,50,100]
+test_arr = [1,10,20,50,100]
 arr = [random.sample(range(-1_000,1_000),k) for k in test_arr]
 
 time_res = {x: ''  for x in test_arr}
