@@ -11,4 +11,5 @@
 # Status: 
 [![Test](https://github.com/Nexiee11/tz2_repo/actions/workflows/tz2ci.yml/badge.svg?branch=main)](https://github.com/Nexiee11/tz2_repo/actions/workflows/tz2ci.yml)
 
-
+## TG: 
+https://t.me/+LrDqW1xI-Jw4NGNi
