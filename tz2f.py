@@ -1,3 +1,5 @@
+#Note: we do no test empty list(look at the description of an input file. GitHub:demist
+
 def read_from_file(filename):
     a = []
     with open(filename,'r') as k:
